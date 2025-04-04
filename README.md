@@ -1,7 +1,5 @@
-<div align="center">
-    <img href="https://projecterror.dev" width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo" />
-</div>
-<h1 align="center">FiveM React and Lua Boilerplate</h1>
+
+<h1 align="center">MafiaMP React and Lua Boilerplate</h1>
 
 <div align="center">
 A simple and extendable React (TypeScript) boilerplate designed around the Lua ScRT
@@ -16,7 +14,7 @@ A simple and extendable React (TypeScript) boilerplate designed around the Lua S
 </div>
 
 This repository is a basic boilerplate for getting started
-with React in NUI. It contains several helpful utilities and
+with React in NUI in MafiaMP. It contains several helpful utilities and
 is bootstrapped using `create-react-app`. It is for both browser
 and in-game based development workflows.
 
@@ -213,4 +211,4 @@ yarn build
 
 ## Additional Notes
 
-Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)!
+This code is based on the boilerplate made by project-error in fiveM
