@@ -5,12 +5,6 @@
 A simple and extendable React (TypeScript) boilerplate designed around the Lua ScRT
 </div>
 
-<div align="center">
-
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=VladimirUE4/mafiamp-react-boilerplate-lua)](https://dependabot.com)
-</div>
-
 This repository is a basic boilerplate for getting started
 with React in NUI in MafiaMP. It contains several helpful utilities and
 is bootstrapped using `create-react-app`. It is for both browser
@@ -21,7 +15,7 @@ builds that just require a resource restart instead of a full
 production build
 
 ## Requirements
-* [Node > v10.6](https://nodejs.org/en/)
+* [Node > v22.12](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
 
 *A basic understanding of the modern web development workflow. If you don't 
